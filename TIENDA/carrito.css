@@ -1,0 +1,41 @@
+.carrito-info{
+    display: flex;
+    flex-wrap: wrap;
+}
+.carrito{
+    margin: 80 auto;
+}
+
+.precio-total table{
+    border-top: 3px solid #3b80ff;
+    width: 100%;
+    max-width: 400px;
+}
+th{
+    text-align: left;
+    padding: 5px;
+    color: #fff;
+    background: #3ba7ff;
+    font-weight: normal;
+}
+td{
+    padding: 10px 5px;
+}
+td input{
+    width: 40px;
+    height: 30px;
+    padding: 5px;
+}
+td a{
+    color: #3ba7ff;
+    font-size: 12px;
+}
+td img{
+    width: 80px;
+    height: 80px;
+    margin-right: 10px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
